@@ -1387,7 +1387,7 @@ extension BrowserViewController: UIPopoverPresentationControllerDelegate {
 extension BrowserViewController {
     public var eraseIntent: EraseIntent {
         let intent = EraseIntent()
-        intent.suggestedInvocationPhrase = "Erase"
+        intent.suggestedInvocationPhrase = UIConstants.strings.eraseSiriCommand
         return intent
     }
 }
