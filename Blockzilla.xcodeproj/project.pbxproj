@@ -15,7 +15,6 @@
 		0BBBED431DD3B78300F9C565 /* SettingAppearanceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BBBED421DD3B78300F9C565 /* SettingAppearanceTest.swift */; };
 		0BC928CE1E366A6E004AC581 /* AsianLocaleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC928CD1E366A6E004AC581 /* AsianLocaleTest.swift */; };
 		16074B6D2114364C003B671F /* PhotonActionSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16074B6C2114364C003B671F /* PhotonActionSheet.swift */; };
-		16180DBB212F563800AFE3C2 /* Intents.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 16180DBA212F563800AFE3C2 /* Intents.intentdefinition */; };
 		161D90312108085F00C2A74A /* HomeViewToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 161D90302108085F00C2A74A /* HomeViewToolbar.swift */; };
 		163BFFE22124EBAF0007CEBC /* Intents.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 163BFFE12124EBAF0007CEBC /* Intents.framework */; };
 		163BFFE42124F8E10007CEBC /* IntentsUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 163BFFE32124F8E10007CEBC /* IntentsUI.framework */; };
@@ -23,7 +22,6 @@
 		166E4BFB212F7DEC0029E2A5 /* UserAgentTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 166E4BFA212F7DEC0029E2A5 /* UserAgentTest.swift */; };
 		166E4C0321347D150029E2A5 /* IntentHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 166E4C0221347D150029E2A5 /* IntentHandler.swift */; };
 		166E4C0721347D150029E2A5 /* FocusIntentExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 166E4C0021347D150029E2A5 /* FocusIntentExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		166E4C0F21347D760029E2A5 /* Intents.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 16180DBA212F563800AFE3C2 /* Intents.intentdefinition */; };
 		166E4C86213480F60029E2A5 /* AppInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E251FA1DAF0668005918DC /* AppInfo.swift */; };
 		166E4C87213480FD0029E2A5 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BF2E101BAD8AC500DA9D68 /* Settings.swift */; };
 		166E4C882134810D0029E2A5 /* AppConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35C11461E04AADA005FFFEF /* AppConfig.swift */; };
@@ -35,6 +33,8 @@
 		16D7169E2114F00E000C8A66 /* TrackingProtectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D7169D2114F00E000C8A66 /* TrackingProtectionViewController.swift */; };
 		16D716A5211503CD000C8A66 /* PageActionSheetItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D716A4211503CD000C8A66 /* PageActionSheetItems.swift */; };
 		1C91A6DFF604CDDAE5C3F1F2 /* BuddyBuildSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 885AD5B8AB73EB0DA9702536 /* BuddyBuildSDK.framework */; };
+		1D0CEE512151637F00FF4206 /* Intents.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 1D0CEE542151637F00FF4206 /* Intents.intentdefinition */; };
+		1D0CEE522151637F00FF4206 /* Intents.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 1D0CEE542151637F00FF4206 /* Intents.intentdefinition */; };
 		1D199EF220D813D300CDF976 /* DragAndDropTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D199EF120D813D300CDF976 /* DragAndDropTest.swift */; };
 		1D3BEDF920C5E6C70019B722 /* FindInPage.js in Resources */ = {isa = PBXBuildFile; fileRef = 1D3BEDF820C5E6C70019B722 /* FindInPage.js */; };
 		1D3BEDFB20C5E76B0019B722 /* FindInPageBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3BEDFA20C5E76A0019B722 /* FindInPageBar.swift */; };
@@ -259,7 +259,6 @@
 		0BBBED421DD3B78300F9C565 /* SettingAppearanceTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingAppearanceTest.swift; sourceTree = "<group>"; };
 		0BC928CD1E366A6E004AC581 /* AsianLocaleTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsianLocaleTest.swift; sourceTree = "<group>"; };
 		16074B6C2114364C003B671F /* PhotonActionSheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotonActionSheet.swift; sourceTree = "<group>"; };
-		16180DBA212F563800AFE3C2 /* Intents.intentdefinition */ = {isa = PBXFileReference; lastKnownFileType = file.intentdefinition; path = Intents.intentdefinition; sourceTree = "<group>"; };
 		161D90302108085F00C2A74A /* HomeViewToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewToolbar.swift; sourceTree = "<group>"; };
 		163BFFE12124EBAF0007CEBC /* Intents.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Intents.framework; path = System/Library/Frameworks/Intents.framework; sourceTree = SDKROOT; };
 		163BFFE32124F8E10007CEBC /* IntentsUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IntentsUI.framework; path = System/Library/Frameworks/IntentsUI.framework; sourceTree = SDKROOT; };
@@ -360,6 +359,7 @@
 		16D7169D2114F00E000C8A66 /* TrackingProtectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackingProtectionViewController.swift; sourceTree = "<group>"; };
 		16D716A4211503CD000C8A66 /* PageActionSheetItems.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageActionSheetItems.swift; sourceTree = "<group>"; };
 		1D051AC1857A0EEEBB833D15 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		1D0CEE532151637F00FF4206 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.intentdefinition; name = en; path = en.lproj/Intents.intentdefinition; sourceTree = "<group>"; };
 		1D199EF120D813D300CDF976 /* DragAndDropTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragAndDropTest.swift; sourceTree = "<group>"; };
 		1D3BEDF820C5E6C70019B722 /* FindInPage.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FindInPage.js; sourceTree = "<group>"; };
 		1D3BEDFA20C5E76A0019B722 /* FindInPageBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindInPageBar.swift; sourceTree = "<group>"; };
@@ -1277,7 +1277,7 @@
 				7460BD661F58B1B10096B745 /* GradientProgressBar.swift */,
 				D5ABA3D81FCC846800D5C060 /* AutocompleteSettingViewController.swift */,
 				E4BF2DD61BACE8CA00DA9D68 /* AppDelegate.swift */,
-				16180DBA212F563800AFE3C2 /* Intents.intentdefinition */,
+				1D0CEE542151637F00FF4206 /* Intents.intentdefinition */,
 				16D7169B2114EF72000C8A66 /* BlockerToggle.swift */,
 				D30179061BC6CB19009AD388 /* BlockerEnabledDetector.swift */,
 				D3E2C96E1DA3093D00DEBE3D /* BrowserToolbar.swift */,
@@ -1825,7 +1825,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				166E4C0F21347D760029E2A5 /* Intents.intentdefinition in Sources */,
+				1D0CEE522151637F00FF4206 /* Intents.intentdefinition in Sources */,
 				166E4C882134810D0029E2A5 /* AppConfig.swift in Sources */,
 				166E4C0321347D150029E2A5 /* IntentHandler.swift in Sources */,
 				166E4C87213480FD0029E2A5 /* Settings.swift in Sources */,
@@ -1889,7 +1889,7 @@
 				D5ABA3D91FCC846800D5C060 /* AddCustomDomainViewController.swift in Sources */,
 				D3426AEB1DB7F8AA0016DA5A /* OverlayView.swift in Sources */,
 				746BD9241F758FDA00BE8DB9 /* Bytes.swift in Sources */,
-				16180DBB212F563800AFE3C2 /* Intents.intentdefinition in Sources */,
+				1D0CEE512151637F00FF4206 /* Intents.intentdefinition in Sources */,
 				16D465B12127891000FEC226 /* SiriFavoriteViewController.swift in Sources */,
 				D3E54FCF1DEFAE80003E1AFF /* OpenSearchParser.swift in Sources */,
 				E40AFB101DC9014700DA5651 /* UserAgent.swift in Sources */,
@@ -2072,6 +2072,14 @@
 				16ABCD7021406DAF00CABBF4 /* gu-IN */,
 			);
 			name = Intents.strings;
+			sourceTree = "<group>";
+		};
+		1D0CEE542151637F00FF4206 /* Intents.intentdefinition */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1D0CEE532151637F00FF4206 /* en */,
+			);
+			name = Intents.intentdefinition;
 			sourceTree = "<group>";
 		};
 		74F94FF41FD9CA070047E629 /* Intro.strings */ = {
